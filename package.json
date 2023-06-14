@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanh-devos/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanh-devos/testing-practice/issues"
+  },
+  "homepage": "https://github.com/khanh-devos/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
